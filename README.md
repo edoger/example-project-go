@@ -1,2 +1,5 @@
-# example-project-go
-An example project of golang.
+# Example Project #
+
+
+
+This is an example project of go.
